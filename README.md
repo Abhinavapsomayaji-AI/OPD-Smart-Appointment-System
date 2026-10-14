@@ -1,1 +1,1 @@
-# Smart Appointment System of OPD and Medical sector #
+# Smart Appointment System for OPD and Medical sector #
