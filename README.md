@@ -8,4 +8,4 @@ I got this idea because my father is a doctor and sometimes his OP appointments 
 
 **Python:** Like most of my projects this is built by using python as the main programming language as it is powerful tool, easy to spot errors, can be easily run through windows and it is cost effective
 
-**Streamlit:** Of course for patients and doctors to interact with each other there should be a common platform where they can communicate or send information to each other.So, I used pygame to do this task for now as it can be easliy run through python and make a good basic model for the website  
+**Streamlit:** Of course for patients and doctors to interact with each other there should be a common platform where they can communicate or send information to each other.So, I used streamlit to do this task for now as it can be easliy run through python and make a good basic model for the website  
