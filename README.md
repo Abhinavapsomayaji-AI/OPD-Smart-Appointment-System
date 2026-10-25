@@ -37,6 +37,8 @@ This is the section where the patient fills in the details regarding the problem
 ### **The Doctor Portal:** </br>
 This the part where the doctor can view when his/her appointment with the patient is scheduled and view the details about the patient before even meeting the patient. 
 
+![OPD_preview](Doctor_Portal.png)
+
 
 
 
