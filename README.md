@@ -21,7 +21,7 @@ This is where the patient fills in all the details of their main problem, at wha
 
 <ins> **Main Components:** </ins>
 
-**The Main details section:**</br>
+**The Main details section:** </br>
 This is the part where the patient enters their personal details like name, age, and gender. As well as the time they were able to visit and the doctor they are willing to visit (Note:The system already knows when the doctor is avilable for OP and only gives those timings ).
 
 **The Medical Background Section:** 
@@ -33,6 +33,8 @@ This is the section where the patient fills in the details regarding the problem
 
 **Generate Random medical history:** Just a utility feature that generates random medical history for the convenience of anyone reviewing this prototype; this would not be present in a production build.
 
+### **The Doctor Portal:** </br>
+This the part where the doctor can view when his/her appointment with the patient is scheduled and view the details about the patient before even meeting the patient. 
 
 
 
