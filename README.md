@@ -24,6 +24,10 @@ This is where the patient fills in all the details of their main problem, at wha
 **The Main details section:** </br>
 This is the part where the patient enters their personal details like name, age, and gender. As well as the time they were able to visit and the doctor they are willing to visit (Note:The system already knows when the doctor is avilable for OP and only gives those timings ).
 
+**The Medical Background Section:** 
+
+This is the section where the patient fills in the details regarding the problems they are facing and their past medical history like past surgeries, diseases they have,etc. These details directly go to the doctor where he/she can view the details through their portal and get the concise idea of what patient is facing before they even see the patient physically.   
+
 
 
 
