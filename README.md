@@ -33,6 +33,7 @@ This is the section where the patient fills in the details regarding the problem
 
 **Generate Random medical history:** Just a utility feature that generates random medical history for the convenience of anyone reviewing this prototype; this would not be present in a production build.
 
+
 ### **The Doctor Portal:** </br>
 This the part where the doctor can view when his/her appointment with the patient is scheduled and view the details about the patient before even meeting the patient. 
 
