@@ -19,6 +19,8 @@ This is where the patient fills in all the details of their main problem, at wha
 
 ![OPD_preview](Patient_Portal.png)
 
+**Main Components**
+
 
 
 
