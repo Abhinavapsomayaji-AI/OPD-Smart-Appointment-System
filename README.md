@@ -45,7 +45,7 @@ This the part where the doctor can view when his/her appointment with the patien
 Real-time table displaying all available and booked time slots for the doctor to see their OP schedule clearly.
 
 **Incoming Patient AI Summaries:** </br>
-This is where the doctor can view structured patient profiles, chief complaints, medical history, and an AI-generated clinical briefing for quick look before consultation. In the above image a refence is shown for viewing 
+This is where the doctor can view structured patient profiles, chief complaints, medical history, and an AI-generated clinical briefing for quick look before consultation. In the above image a reference is shown for viewing 
 
 
 
