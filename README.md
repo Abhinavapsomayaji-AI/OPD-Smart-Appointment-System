@@ -19,7 +19,10 @@ This is where the patient fills in all the details of their main problem, at wha
 
 ![OPD_preview](Patient_Portal.png)
 
-**Main Components**
+<ins> **Main Components:** </ins>
+
+**The Main details section:** </br>
+This is the part where the patient enters their personal details like name, age, and gender. As well as the time they were able to visit and the doctor they are willing to visit (Note:The system already knows when the doctor is avilable for OP and only gives those timings ).
 
 
 
