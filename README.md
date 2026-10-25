@@ -10,4 +10,13 @@ I got this idea because my father is a doctor and sometimes his OP appointments 
 
 **Streamlit:** Of course for patients and doctors to interact with each other there should be a common platform where they can communicate or send information to each other.So, I used streamlit to do this task for now as it can be easliy run through python and make a good basic model for the website  
 
+## Website Architecture🏛️:
+
+In the website there are two portals one patient portal and other the doctor portal(in real application of this the people will have designated portal to them and they cannot view the other portal. This option of switching is only here for reference)
+
+### **The Patient Portal:**
+This is where the patient fills in all the details of their main problem, at what time can visit the doctor for OPD, etc 
+
+
+
 
