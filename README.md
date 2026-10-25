@@ -17,6 +17,8 @@ In the website there are two portals one patient portal and other the doctor por
 ### **The Patient Portal:**
 This is where the patient fills in all the details of their main problem, at what time can visit the doctor for OPD, etc 
 
+![OPD_preview](Patient_Portal.png)
+
 
 
 
