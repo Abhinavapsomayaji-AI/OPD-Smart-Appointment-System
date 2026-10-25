@@ -27,7 +27,12 @@ This is the part where the patient enters their personal details like name, age,
 
 **The Medical Background Section:** 
 
-This is the section where the patient fills in the details regarding the problems they are facing and their past medical history like past surgeries, diseases they have,etc. These details directly go to the doctor where he/she can view the details through their portal and get the concise idea of what patient is facing before they even see the patient physically.   
+This is the section where the patient fills in the details regarding the problems they are facing and their past medical history like past surgeries, diseases they have,etc. These details directly go to the doctor where he/she can view the details through their portal and get the concise idea of what patient is facing before they even see the patient physically.
+
+
+**The Conformation:** After the patient is done filling their details and medical information they can click "Confirm Appointment" and their appointment will immediately be booked and their details sent to the doctor portal.
+
+**Generate Random medical history:** Just a command that generates random medical history just for the conveinince of the viewer viewing this prototype and will not be present in the real applicantion of the model.
 
 
 
