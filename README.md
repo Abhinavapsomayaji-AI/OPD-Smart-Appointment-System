@@ -47,6 +47,8 @@ Real-time table displaying all available and booked time slots for the doctor to
 **Incoming Patient AI Summaries:** </br>
 This is where the doctor can view structured patient profiles, chief complaints, medical history, and an AI-generated clinical briefing for quick look before consultation. In the above image a reference is shown for review. 
 
+## Workflow 🔃
+
 
 
 
