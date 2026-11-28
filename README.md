@@ -62,6 +62,9 @@ In the doctor portal, there is a view real-time schedule overview showing booked
 
 A GIF of the appointment process and overall view:
 
+![OPD_preview](appointment.gif)
+
+
  
 
 
