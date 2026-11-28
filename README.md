@@ -58,6 +58,10 @@ The patient opens the portal and fills in the personal details and chooses the p
 ### Doctor Schedule & Review:
 
 In the doctor portal, there is a view real-time schedule overview showing booked versus available time slots and also incoming patient's submissions are made into collapsible expanders, and AI clinical briefing for pre-consultation assessing the patient before meeting the patient physically.
+
+
+A GIF of the appointment process and overall view:
+
  
 
 
