@@ -53,7 +53,7 @@ The system operates in dual portal manner.
 
 ### Patient Intake and filling necessary information:
 
-The patient opens the portal and fills in the personal details and chooses the prefered the doctor and timings(which are given by the sytem according to the doctor's available time) and fill in the problem they are suffering(so that doctor will have inital understanding of what they are suffering with). The moment when they press "Comfirm Appointment" the information and automated offline generator instantly synthesizes a structured clinical briefing which can be viewed in the doctor portal.
+The patient opens the portal and fills in the personal details and chooses the prefered the doctor and timings(which are given by the sytem according to the doctor's available time) and fill in the problem they are suffering(so that doctor will have inital understanding of what they are suffering with). The moment when they press "Confirm Appointment" the information and automated offline generator instantly synthesizes a structured clinical briefing which can be viewed in the doctor portal.
 
 ### Doctor Schedule & Review:
 
